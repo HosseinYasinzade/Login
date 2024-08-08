@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #66c4ca;
+  position: relative;
+}
+.icon {
+  width: 30px;
+  height: 30px;
+}
+.member-login {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 20vh;
+  left: 40%;
+  background: linear-gradient(to left, #141414 50%, #2c2c2c 50%);
+  border-radius: 50%;
+}
